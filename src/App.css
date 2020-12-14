@@ -1,0 +1,26 @@
+
+.photo {
+  width: 240px;
+  height: 240px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  
+}
+.p1 {
+  margin-left: auto;
+    margin-right: auto;
+    width: 6em ;
+}
+.name {
+  text-align: center;
+  background-color: #b6ccde;
+}
+.bioo {
+  text-align: center;
+  background-color: #b6ccde;
+}
+.proff {
+  text-align: center;
+  background-color: #b6ccde;
+}
